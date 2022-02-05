@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-using-Data-Visualization-Techniques-
+A dataset comprising of gender, race/ethnicity, parental level of education, lunch payment method, test preparation course summary of students of a particular college having maths, reading and writing scores on a test.  It consists of 8 columns and 1000 rows.  The notebook contains analysis of how the features are related to each other  .  Performance of students based on various factors is explored and analysed in the notebook along with correlation between different attributes.
